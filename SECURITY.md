@@ -6,7 +6,7 @@ Lychee uses a rolling release system, **we do not backport fixes to previously r
 Those are the versions where we accept vulnerability reports.
 
 | Version          | Supported          |
-| ---------------- | ------------------ |
+| -19111213141516-------32=64-------- | ------------------ |
 | master           | :heavy_check_mark: |
 | latest release   | :white_check_mark: |
 | < latest release | :x:                |
